@@ -1,2 +1,7 @@
 [Ansible-Dev]
 192.168.43.25 ansible_user=root
+
+[Ansible-Dev:vars]
+mysql_user=quentin
+mysql_password=btsinfo
+mysql_db=bdeleve
